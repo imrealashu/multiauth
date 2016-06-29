@@ -1,0 +1,12 @@
+{
+    "name": "imrealashu/multiauth-generator",
+    "description": "Generate Multiple Authentication",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ashish Singh",
+            "email": "imrealashu@gmail.com"
+        }
+    ],
+    "require": {}
+}
