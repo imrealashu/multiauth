@@ -1,6 +1,12 @@
 {
     "name": "imrealashu/multiauth-generator",
-    "description": "Generate Multiple Authentication",
+    "description": "Laravel 5.2 Package for Generating Multiple Authentication",
+    "keywords": [
+        "laravel",
+        "Laravel multiauth",
+        "multi-auth",
+        "Laravel 5.2"
+    ],
     "license": "MIT",
     "authors": [
         {
@@ -8,5 +14,6 @@
             "email": "imrealashu@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+    }
 }
